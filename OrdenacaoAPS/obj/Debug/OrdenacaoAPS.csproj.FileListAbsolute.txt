@@ -1,0 +1,195 @@
+C:\Users\MarioTF\source\repos\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe.config
+C:\Users\MarioTF\source\repos\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe
+C:\Users\MarioTF\source\repos\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.pdb
+C:\Users\MarioTF\source\repos\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csprojAssemblyReference.cache
+C:\Users\MarioTF\source\repos\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\MainWindow.g.cs
+C:\Users\MarioTF\source\repos\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\App.g.cs
+C:\Users\MarioTF\source\repos\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.cache
+C:\Users\MarioTF\source\repos\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.lref
+C:\Users\MarioTF\source\repos\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\MainWindow.baml
+C:\Users\MarioTF\source\repos\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.g.resources
+C:\Users\MarioTF\source\repos\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.Properties.Resources.resources
+C:\Users\MarioTF\source\repos\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.GenerateResource.cache
+C:\Users\MarioTF\source\repos\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.CoreCompileInputs.cache
+C:\Users\MarioTF\source\repos\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.exe
+C:\Users\MarioTF\source\repos\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.pdb
+C:\Users\Vitor\Documents\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe.config
+C:\Users\Vitor\Documents\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe
+C:\Users\Vitor\Documents\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.pdb
+C:\Users\Vitor\Documents\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\MainWindow.g.cs
+C:\Users\Vitor\Documents\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\App.g.cs
+C:\Users\Vitor\Documents\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.cache
+C:\Users\Vitor\Documents\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.lref
+C:\Users\Vitor\Documents\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\MainWindow.baml
+C:\Users\Vitor\Documents\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.g.resources
+C:\Users\Vitor\Documents\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.Properties.Resources.resources
+C:\Users\Vitor\Documents\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.GenerateResource.cache
+C:\Users\Vitor\Documents\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.exe
+C:\Users\Vitor\Documents\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.pdb
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe.config
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.pdb
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\MaterialDesignColors.dll
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csprojAssemblyReference.cache
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\MainWindow.g.cs
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\App.g.cs
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.cache
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.lref
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\App.baml
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\MainWindow.baml
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.g.resources
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.Properties.Resources.resources
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.GenerateResource.cache
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.CopyComplete
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.exe
+C:\Users\Vitor\Desktop\Trabalhos 2º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.pdb
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe.config
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.pdb
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\MaterialDesignColors.dll
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\MainWindow.g.cs
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\App.g.cs
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.cache
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.lref
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\App.baml
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\MainWindow.baml
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.g.resources
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.Properties.Resources.resources
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.GenerateResource.cache
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.Fody.CopyLocal.cache
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.CopyComplete
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.exe
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS\OrdenacaoAPS\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.pdb
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe.config
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.pdb
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\MaterialDesignColors.dll
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csprojAssemblyReference.cache
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\MainWindow.g.cs
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\App.g.cs
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.cache
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.lref
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\App.baml
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\MainWindow.baml
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.g.resources
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.Properties.Resources.resources
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.GenerateResource.cache
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.Fody.CopyLocal.cache
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.CopyComplete
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.exe
+C:\Users\Vitor\Documents\Trabalhos 3º Semestre\OrdenacaoAPS_01 - Copia\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.pdb
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe.config
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.pdb
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\MaterialDesignColors.dll
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csprojAssemblyReference.cache
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\MainWindow.g.cs
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\App.g.cs
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.cache
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.lref
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\App.baml
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\MainWindow.baml
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.g.resources
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.Properties.Resources.resources
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.GenerateResource.cache
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.CoreCompileInputs.cache
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.Fody.CopyLocal.cache
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.CopyComplete
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.exe
+C:\Users\MarioTF\Documents\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.pdb
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe.config
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.pdb
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\MaterialDesignColors.dll
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csprojAssemblyReference.cache
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\MainWindow.g.cs
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\App.g.cs
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.cache
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.lref
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\App.baml
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\MainWindow.baml
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.g.resources
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.Properties.Resources.resources
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.GenerateResource.cache
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.CoreCompileInputs.cache
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.Fody.CopyLocal.cache
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.CopyComplete
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.exe
+C:\Users\nico_\Desktop\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.pdb
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe.config
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.pdb
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\MaterialDesignColors.dll
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csprojAssemblyReference.cache
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\MainWindow.g.cs
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\App.g.cs
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.cache
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.lref
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\App.baml
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\MainWindow.baml
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.g.resources
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.Properties.Resources.resources
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.GenerateResource.cache
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.CoreCompileInputs.cache
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.Fody.CopyLocal.cache
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.CopyComplete
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.exe
+C:\Users\nico_\Desktop\APS\OrdenacaoAPS_01\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.pdb
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe.config
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.exe
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\bin\Debug\OrdenacaoAPS.pdb
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\bin\Debug\MaterialDesignColors.dll
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csprojAssemblyReference.cache
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\obj\Debug\MainWindow.g.cs
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\obj\Debug\App.g.cs
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.cache
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\obj\Debug\OrdenacaoAPS_MarkupCompile.lref
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\obj\Debug\App.baml
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\obj\Debug\MainWindow.baml
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.g.resources
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.Properties.Resources.resources
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.GenerateResource.cache
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.CoreCompileInputs.cache
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.Fody.CopyLocal.cache
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.csproj.CopyComplete
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.exe
+C:\Users\nico_\Source\Repos\APS-UNIP-2-ano-1-semestre-\OrdenacaoAPS\obj\Debug\OrdenacaoAPS.pdb
